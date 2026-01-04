@@ -514,7 +514,7 @@ body {
 }
 .about-data .bride_name, .about-data .groom_name {
     font-family: var(--script-font);
-    font-size: 50px;
+    font-size: 30px;
     color: var(--primary-color);
 }
 /* END ABOUT */
@@ -579,7 +579,7 @@ body {
     font-family: var(--title-font);
 }
 .timeline-body .title {
-    font-size: 24px;
+    font-size: 20px;
     font-family: var(--script-font);
 }
 /* ALBUM */
